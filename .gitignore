@@ -1,0 +1,19 @@
+# PlatformIO build system
+.pio/
+.pioenvs/
+.piolibdeps/
+build/
+libdeps/
+
+# VSCode
+.vscode/.browse*
+.vscode/c_cpp_properties.json
+.vscode/launch.json
+.vscode/ipch/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Python virtual environment 
+venv/
